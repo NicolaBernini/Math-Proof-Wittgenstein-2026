@@ -4,7 +4,7 @@
 
 **Game:** Banach-space distance & decomposition game in a Banach space (E).
 **Given:** Closed linear subspaces (G,L \subset E). Assume the hypotheses of Theorem 2.10, in particular **Property (13)** holds.
-**Goal:** Prove there exists a constant (K>0) such that for all (x\in E),
+**Goal:** Prove there exists a constant $K>0$ such that for all $x\in E$,
 
 $$\operatorname{dist}(x, G\cap L)\ \le\ K\bigl(\operatorname{dist}(x,G)+\operatorname{dist}(x,L)\bigr).
 \tag{14}$$

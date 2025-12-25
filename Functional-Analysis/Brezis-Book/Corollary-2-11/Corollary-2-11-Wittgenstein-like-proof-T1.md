@@ -1,12 +1,7 @@
 # Corollary 2.11 - Wittgenstein like Proof
 
-Related
-
-- See ((20251225180301-bugvj9g 'Wittgenstein Philosophy - Research with ChatGPT on 25 Dec 2025 T3'))
-
 
 # Proof
-
 
 ## Start 
 

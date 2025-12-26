@@ -39,3 +39,7 @@ I’ve committed both versions (original + continuation-explicit) to a public Gi
 
 
 
+Cross Posted on 
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7410061382383104000/)
+- [X](https://x.com/NicolaBernini/status/2004482946296672601)
+
